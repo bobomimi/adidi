@@ -1,0 +1,2 @@
+module AdisHelper
+end
